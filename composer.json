@@ -1,0 +1,12 @@
+{
+    "name": "isai/figure_5-1",
+    "authors": [
+        {
+            "name": "ipatzantzic19",
+            "email": "ipatzantzic@gmail.com"
+        }
+    ],
+    "require": {
+        "antlr/antlr4-php-runtime": "^0.9"
+    }
+}
