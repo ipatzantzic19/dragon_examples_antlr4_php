@@ -15,7 +15,7 @@
  * OLC2 - Tarea 2 | Universidad San Carlos de Guatemala
  */
 
-require_once __DIR__ . '/../vendor/autoload.php';  // ANTLR4 PHP runtime (composer)
+require_once __DIR__ . '/../../vendor/autoload.php';  // ANTLR4 PHP runtime (composer)
 require_once __DIR__ . '/GrammarLexer.php';     // generado por ANTLR
 require_once __DIR__ . '/GrammarParser.php';    // generado por ANTLR
 require_once __DIR__ . '/GrammarVisitor.php';   // generado por ANTLR
